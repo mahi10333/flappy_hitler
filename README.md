@@ -1,5 +1,5 @@
-# flappy_hitler
-vityarthi cse project
+# flappy hitler
+VITYARTHI Project
 
 # Simple Stock Market Dashboard with Prediction
 
